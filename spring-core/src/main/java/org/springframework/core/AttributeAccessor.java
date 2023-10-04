@@ -103,5 +103,6 @@ public interface AttributeAccessor {
 	 * Return the names of all attributes.
 	 */
 	String[] attributeNames();
+System.out.println("Hi");
 
 }
